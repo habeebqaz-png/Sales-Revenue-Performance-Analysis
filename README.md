@@ -25,7 +25,8 @@ This project explores sales revenue data through an interactive dashboard design
 - Interactive Product Category Filter.
 
 ## Dashboard Preview
-![Sales Revenue Performance Dashboard](<img width="1002" height="640" alt="sales revenue performance" src="https://github.com/user-attachments/assets/dd8ae6e1-998a-4f22-8e93-4f2616b85289" />)
+![Sales Revenue Performance Dashboard] 
+<img width="1002" height="640" alt="sales revenue performance" src="https://github.com/user-attachments/assets/dd8ae6e1-998a-4f22-8e93-4f2616b85289" />
 
 
 ## Key Findings
